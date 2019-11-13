@@ -1,0 +1,20 @@
+{
+  "name": "sequelize-model",
+  "version": "1.0.0",
+  "description": "Automatically generate sequelize models from your database in typescript and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardnet972/sequelize-model.git"
+  },
+  "keywords": [],
+  "author": "Shlomi Levi <wizardnet972@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizardnet972/sequelize-model/issues"
+  },
+  "homepage": "https://github.com/wizardnet972/sequelize-model#readme"
+}
