@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/wizardnet972/sequelize-model/issues"
   },
-  "homepage": "https://github.com/wizardnet972/sequelize-model#readme"
+  "homepage": "https://github.com/wizardnet972/sequelize-model#readme",
+  "dependencies": {
+    "@types/sequelize": "^4.28.6",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "mariadb": "^2.1.3",
+    "mysql2": "^2.0.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.0",
+    "tedious": "^6.6.2"
+  }
 }
